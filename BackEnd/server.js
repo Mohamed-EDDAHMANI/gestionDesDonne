@@ -45,7 +45,6 @@ mongoose.connect('mongodb+srv://meddeddahmani:simo991@cluster0.stsxq.mongodb.net
 
 
 
-
 app.listen(5500 , () => {
     console.log('http//localhost:5500/')
 })
